@@ -1,0 +1,32 @@
+{
+  "Tasks": [
+    {
+      "task": "Menangkap ubur-ubur",
+      "id": 1
+    },
+    {
+      "task": "mengerjakan tugas",
+      "id": "50608619c63"
+    },
+    {
+      "id": "506f02c50f0",
+      "task": "Melatih Beruang Madu"
+    },
+    {
+      "id": "06f02c50f01",
+      "task": "Minum Cokelat Panas"
+    },
+    {
+      "id": "f02c50f01d0",
+      "task": "Bermain Permainan Papan"
+    },
+    {
+      "id": "02c50f01d0b",
+      "task": "Jangan makan keju, yang kotak boleh"
+    },
+    {
+      "id": "2c50f01d0b4",
+      "task": "Memainkan lampu senter"
+    }
+  ]
+}
